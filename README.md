@@ -1,4 +1,4 @@
-### Hi there 👋
+### Portfolio site, first one ever made :) for resume resources!
 
 <!--
 **jadelga7/jadelga7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
